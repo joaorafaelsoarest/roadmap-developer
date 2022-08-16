@@ -44,8 +44,8 @@ com o que você possa já iniciar sua carreira ou até mesmo hobbie.
 
 ## Trilha Comum
 
-* [Git](https://www.youtube.com/watch?v=UMhskLXJuq4)
 * [Algoritmos (Lógica de programação)](https://youtu.be/8mei6uVttho)
+* [Git](https://www.youtube.com/watch?v=UMhskLXJuq4)
 * [Semantic Version](https://www.youtube.com/watch?v=sgheXCK-Rfw)
 * [Github](https://www.youtube.com/watch?v=UbJLOn1PAKw)
 * [APIS](https://www.youtube.com/watch?v=3LHSyha0xN0)
