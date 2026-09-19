@@ -16,7 +16,7 @@
 
 O conteúdo deste repositório é melhor visualizado através do nosso site de documentação.
 
-> **[Acessar Roadmap Developer 2026](https://seu-usuario.github.io/roadmap-developer-2026/)**
+> **[Acessar Roadmap Developer 2026](https://joaorafaelsoarest.github.io/roadmap-developer-2026/)**
 >
 > _Nota: A URL acima será ativada automaticamente após o primeiro deploy via GitHub Pages. Lembre-se de substituir `seu-usuario` pelo seu username do GitHub._
 
@@ -51,7 +51,7 @@ Para rodar o site de documentação na sua máquina:
 1.  **Clone o repositório e instale as dependências:**
 
     ```bash
-    git clone https://github.com/seu-usuario/roadmap-developer-2026.git
+    git clone https://github.com/joaorafaelsoarest/roadmap-developer-2026.git
     cd roadmap-developer-2026
     npm install
     ```
